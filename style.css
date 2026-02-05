@@ -1,0 +1,24 @@
+html{
+    background: black;
+}
+.cat_image{
+    margin-left: 27%;
+    margin-top: 5%;
+}
+img{
+    border: 5px solid white;
+}
+
+.title{
+    text-align: center;
+    color: whitesmoke;
+    margin: 0%;
+    font-size: 50px;
+}
+
+.subtitle{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 25px;
+    
+}
